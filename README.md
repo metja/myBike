@@ -1,4 +1,8 @@
-My first project at Mate Academy in which I implemented my skills in BEM methodology and Sass.
+# Air landing
+Design - [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+    
+# Technologies
 
+HTML, SCSS, BEM, Flexbox, Grid, JS.
 
-    - [DEMO LINK](https://metja.github.io/myBike/)
+DEMO - [DEMO LINK](https://metja.github.io/myBike/)
